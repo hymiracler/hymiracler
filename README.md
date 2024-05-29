@@ -1,14 +1,16 @@
 ## 🔬 Software Alchemist 🌟: Transforming Ideas into Reality ✨
 
 Welcome to my page!
-I'm a Miracle maker | Full Stack | AI/ML Engineer
+I'm a Miracle maker | Software | AI/ML Engineer | Data Scientist
 
 Tech stacks I am using mostly are
-- Programming: Python, JavaScript, C++, TypeScript
-- Frontend : React.js, angular (Advanced)<br/>
-- Backend: Node, Django, Flask, FastAPI
-- AI/ML : GenAI, LLM, NLP, Reinforcement Learning, Data Science, ML algorithms
-
+**Programming**: Python, JavaScript, C++, TypeScript
+**Backend**: Node.js, Django, Flask, FastAPI
+**Frontend**: React.js, Angular (Advanced)
+**AI/ML**: GenAI, LLM, NLP, Reinforcement Learning, Data Science, ML algorithms
+**DevOps**: Docker, Kubernetes, Jenkins, GitLab CI/CD
+**MLOps**: MLflow, Airflow, TensorBoard
+**Cloud Services**: AWS (Amazon Web Services), GCP (Google Cloud Platform), Azure (Microsoft Azure)
 
 <br/>
 <br/>
