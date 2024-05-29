@@ -1,4 +1,4 @@
-## Software is beautiful👋!
+## 🔬 Software Alchemist 🌟: Transforming Ideas into Reality ✨
 
 Welcome to my page!
 I'm a Miracle maker | Full Stack | AI/ML Engineer
