@@ -108,4 +108,4 @@ Tech stacks I am using mostly are
            
 
 ------
-*[Send me a message](mailto:weslyjean894@gmail.com).*
+*[Send me a message](mailto:danielkakutani723@gmail.com).*
