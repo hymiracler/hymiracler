@@ -12,6 +12,7 @@ Tech stacks I am using mostly are
 - **DevOps**: Docker, Kubernetes, Jenkins, GitLab CI/CD
 - **MLOps**: MLflow, Airflow, TensorBoard
 - **Cloud Services**: AWS (Amazon Web Services), GCP (Google Cloud Platform), Azure (Microsoft Azure)
+- **Blockchain**: Blockchain Protocal, Cryptography, Consensus Algorithm, Smart Contract, Web3.js, DApp, Solidity, Rust
 
 <br/>
 <br/>
