@@ -22,7 +22,6 @@ Tech stacks I am using mostly are
 ### 🧐 More About Me:
 
 - 🤝 &nbsp; I love math and solving mathematical problems.
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help!
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels.
 
